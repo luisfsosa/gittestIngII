@@ -1,6 +1,8 @@
 package co.com.prueba;
 
 public class Prueba {
+	
+	private String  pruebaJoao="Joao";
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
