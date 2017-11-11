@@ -16,6 +16,10 @@ public class Prueba {
 	public String alejandro="Ortega (no me borren)";
 	
 	public String santiago="Santiago";
+	
+	public String darNombre(){
+		return "ALEJANDRO ORTEGA LEÓN";
+	}
     public static void main(String[] args) {
         // TODO Auto-generated method stub
     	 	
