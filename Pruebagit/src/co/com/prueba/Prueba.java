@@ -10,7 +10,7 @@ public class Prueba {
     
     private String mata="alejandro";
 
-	private String alejo = "jejeje";
+	private String alejo = "ortega";
 
 
 	public String monica="Monica";
@@ -21,5 +21,5 @@ public class Prueba {
 
 	}
 
-}
+
 
