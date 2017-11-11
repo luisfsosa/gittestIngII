@@ -12,6 +12,9 @@ public class Prueba {
     
     private String mata="alejandro";
 	public String monica="Monica";
+	
+	public String alejandro="Ortega (no me borren)";
+	
     public static void main(String[] args) {
         // TODO Auto-generated method stub
     	 	
