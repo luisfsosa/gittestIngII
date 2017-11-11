@@ -10,8 +10,8 @@ public class Prueba {
     
     private String felipe="felipe";
     
-    private String mata="alejandro";
-	public String monica="Monica";
+    private String mata="alejandro (Este man esta borrando a todo el mundo)"; 
+	public String monica="Moniqueinsh";
 	
 	public String alejandro="Ortega (no me borren)";
 	
