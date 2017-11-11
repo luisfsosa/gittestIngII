@@ -16,6 +16,12 @@ public class Prueba {
 	public String alejandro="Ortega (no me borren)";
 	
 	public String santiago="Santiago";
+	
+	
+	public String doPaula(){
+		return "Paula";
+		
+	}
     public static void main(String[] args) {
         // TODO Auto-generated method stub
     	 	
