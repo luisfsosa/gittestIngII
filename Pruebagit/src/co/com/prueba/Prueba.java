@@ -20,6 +20,10 @@ public class Prueba {
         // TODO Auto-generated method stub
     	 	
     }
+    
+    public String doMiguel() {
+    	return "Miguel";
+    }
 
 }
 
