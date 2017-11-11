@@ -1,14 +1,21 @@
 package co.com.prueba;
 
 public class Prueba {
-
-
-	public String mata= "Alejandro";
+	
+	private String paula="paula";
+	
+	private String pruebaJoao="Joao";
+	
+	String MIGUEL;
+    
+    private String felipe="felipe";
+    
+    private String mata="alejandro";
+	public String monica="Monica";
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-
+    	 	
     }
 
-    
-    
 }
+
