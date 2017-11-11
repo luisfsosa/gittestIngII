@@ -1,6 +1,13 @@
 package co.com.prueba;
 
 public class Prueba {
+	
+	private String paula="paula";
+	
+	
+    
+    private String felipe="felipe";
+
 
 	public String monica="Monica";
     public static void main(String[] args) {
