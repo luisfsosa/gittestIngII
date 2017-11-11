@@ -7,27 +7,15 @@ public class Prueba {
 	String MIGUEL;
     
     private String felipe="felipe";
+    
+    private String mata="alejandro";
 
 
-<<<<<<< HEAD
 	public String monica="Monica";
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-    	 
-    		
-    	}
-
+    	 	
     }
 
-
-=======
-	public String mata= "Alejandro";
-    public static void main(String[] args) {
-        // TODO Auto-generated method stub
-    	
-    }
-
-    
-    
 }
->>>>>>> master
+
